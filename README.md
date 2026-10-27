@@ -1,8 +1,8 @@
-<!-- ============ Bloom Header (live weather · day / night follows your theme) ============ -->
+﻿<!-- ============ Bloom Header (live weather 路 day / night follows your theme) ============ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
-    <img src="bloom-header.svg" width="900" alt="yuki4266 — blooming banner" />
+  <img src="bloom-header.svg" width="900" alt="Taa - blooming banner" />
   </picture>
 </div>
 
@@ -20,7 +20,7 @@
 <img src="chips/label-4.svg?v=6cd4b14d" alt="LANG / OPS" /> <img src="chips/python.svg?v=e0201563" alt="Python" /> <img src="chips/uv.svg?v=39627b3c" alt="uv" /> <img src="chips/rust.svg?v=d719a705" alt="Rust" /> <img src="chips/typescript.svg?v=462e66d7" alt="TypeScript" /> <img src="chips/docker.svg?v=b584dfc2" alt="Docker" /> <img src="chips/kubernetes.svg?v=40696832" alt="Kubernetes" /> <img src="chips/opentelemetry.svg?v=0049ee37" alt="OpenTelemetry" />
 
 <details>
-<summary>🌱 &nbsp;<b>Field guide</b> — open to read what every chip actually is</summary>
+<summary>馃尡 &nbsp;<b>Field guide</b> 鈥?open to read what every chip actually is</summary>
 <br/>
 <div align="center">
 <img src="chips/guide-0.svg?v=c840696e" alt="AGENTS field guide" /><br/>
@@ -49,7 +49,7 @@
 
 <!-- ============ Snake ============ -->
 <div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yuki4266/yuki4266/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mme887056-creator/mme887056-creator/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- ============ Footer (a cat lives here) ============ -->
@@ -59,8 +59,10 @@
     <img src="garden-footer.svg" width="900" alt="garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuki4266&label=Profile%20views&color=F4795B&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=mme887056-creator&label=Profile%20views&color=F4795B&style=flat)
 
 <sub>The sky above follows the real forecast and the garden follows the season — powered by <a href="https://github.com/yuki4266/living-scene">living-scene</a>. Want one? <a href="https://github.com/yuki4266/living-scene-template/generate">Use the template</a>.</sub>
 
 </div>
+
+
