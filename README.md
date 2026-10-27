@@ -67,6 +67,15 @@ not a list of technologies I claim to master.
 
 ---
 
+<!-- ============ Footer (a cat lives here) ============ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+    <img src="garden-footer.svg" width="900" alt="garden footer" />
+  </picture>
+</div>
+
+
 <p align="center">
   <sub>
     Growing at my own pace, one experiment at a time. 🌷
